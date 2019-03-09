@@ -1,0 +1,22 @@
+{
+  "name": "ybwsindia",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "deploy": "gh-pages -d dist "
+  },
+  "homepage": "https://sugatshakya.github.io/ybwsindia",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sugatshakya/ybwsindia.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sugatshakya/ybwsindia/issues"
+  },
+  "devDependencies": {
+    "gh-pages": "^2.0.1"
+  }
+}
